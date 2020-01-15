@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/menu_managecluster"
+        android:icon="@drawable/ic_group_work_black_24dp"
+        android:title="Cluster" />
+    <item
+        android:id="@+id/menu_managemedia"
+        android:icon="@drawable/ic_perm_media_black_24dp"
+        android:title="Media" />
+    <item
+        android:id="@+id/menu_managebranch"
+        android:icon="@drawable/ic_business_black_24dp"
+        android:title="Branch" />
+</menu>

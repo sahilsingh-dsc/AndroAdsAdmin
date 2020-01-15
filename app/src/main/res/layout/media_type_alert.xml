@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtImage"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:background="?selectableItemBackground"
+        android:clickable="true"
+        android:padding="5dp"
+        android:text="@string/image_file"
+        android:focusable="true" />
+
+    <View
+        android:id="@+id/divider7"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="?android:attr/listDivider" />
+
+    <TextView
+        android:id="@+id/txtVideo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:background="?selectableItemBackground"
+        android:clickable="true"
+        android:padding="5dp"
+        android:gravity="center_vertical"
+        android:text="@string/video_file"
+        android:focusable="true" />
+</LinearLayout>

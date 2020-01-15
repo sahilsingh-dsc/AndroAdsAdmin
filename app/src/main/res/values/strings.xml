@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ADLocal Admin</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="add_tv">Add TV</string>
+    <string name="manage_tv">Manage TV</string>
+    <string name="menege_cluster">Manage Cluster</string>
+    <string name="cluster_name">Cluster Name</string>
+    <string name="add_cluster">Add Cluster</string>
+    <string name="cluster_alert_message">Cluster will group all tv\'s to their clusters or groups, so that it becomes easier to identify which tv belongs to which shop or area.</string>
+    <string name="tv_name">TV Name</string>
+    <string name="media">Manage Media</string>
+    <string name="image_file">Image File</string>
+    <string name="video_file">Video File</string>
+    <string name="manage_branch">Manage Branch</string>
+</resources>
